@@ -12,3 +12,9 @@ title = "About"
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author = "admin"
 +++
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: "Simien Mountains National Park, Ethiopia"
+  image: "static/img/headers/"viewfrom_km.jpg"
+---

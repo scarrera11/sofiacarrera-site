@@ -56,13 +56,13 @@ social:
   link: files/CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+# email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I am a PhD candidate in biopsychology at the University of Michigan in the Simien Mountain Gelada Research Project group. My  interests span behavioral endocrinology, developmental biology, and life history. I address my research questions with behavioral observations and hormone sample collection. My dissertation focuses on early-life adversity and maternal effects in a wild primate - geladas.
+I am a PhD candidate in biopsychology at the University of Michigan conducting research with the Simien Mountain Gelada Research Project. My interests span behavioral endocrinology, developmental biology, and life history. I address my research questions with behavioral observations and non-invasive hormone sample collection. My dissertation focuses on early-life adversity and maternal effects in a wild primate - geladas.

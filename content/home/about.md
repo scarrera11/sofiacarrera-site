@@ -16,5 +16,5 @@ author = "admin"
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: "Simien Mountains National Park, Ethiopia"
-  image: "static/img/headers/"viewfrom_km.jpg"
+  image: "img/headers/"viewfrom_km.jpg"
 ---

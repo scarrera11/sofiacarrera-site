@@ -20,10 +20,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 
 
-interests:
-- Lorem
-- Ipsum
-- Lorem ipsum
+interests: []
+
 
 education:
   courses:

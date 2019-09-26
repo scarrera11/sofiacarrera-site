@@ -24,7 +24,7 @@ weight = 10  # Order that this section will appear.
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "headers/viewfrom_km.jpg"  # Name of image in `static/img/`.
+  image = "headers/debir.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
 # overlay_img = "headers/viewfrom_km.jpg" 
@@ -49,8 +49,6 @@ weight = 10  # Order that this section will appear.
  #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-# **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
+Simien Mountains National Park, Ethiopia
 
-# Build **Anything** with Widgets
 
-# <span style="text-shadow: none;"><a class="github-button" href="https://github.com/gcushen/hugo-academic" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star this on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>

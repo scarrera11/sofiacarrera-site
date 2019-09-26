@@ -3,9 +3,6 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-[[main]]
-  name = "**Sofia Carrera**"
-  weight = 5
 
 [[main]]
   name = "Home"
@@ -14,7 +11,7 @@
 
 [[main]]
   name = "CV"
-  url = "static/files/CV.pdf"
+  link = "files/CV.pdf"
   weight = 20
 
 [[main]]

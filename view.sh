@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-hugo --i18n-warnings server
+hugo server --forceSyncStatic --port 8080 --cleanDestinationDir --ignoreCache -v

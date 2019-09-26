@@ -11,7 +11,7 @@
 
 [[main]]
   name = "CV"
-  link = "files/CV.pdf"
+  link = "static/files/CV.pdf"
   weight = 20
 
 [[main]]

@@ -47,7 +47,7 @@ weight = 10  # Order that this section will appear.
 # Note. An optional note to show underneath the links.
 # [cta_note]
  #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
-# +++
++++
 
 # **The Best Way to Create the Website You Want from Markdown (or Jupyter/RStudio)**
 

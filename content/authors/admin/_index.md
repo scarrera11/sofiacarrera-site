@@ -65,4 +65,4 @@ social:
 # - Visitors
 ---
 
-I am a PhD candidate in biopsychology at the University of Michigan conducting research with the Simien Mountain Gelada Research Project. My interests span behavioral endocrinology, developmental biology, and life history. I address my research questions with behavioral observations and non-invasive hormone sample collection. My dissertation focuses on early-life adversity and maternal effects in a wild primate - geladas.
+I am a PhD candidate in <a href="https://lsa.umich.edu/psych/program-areas/biopsychology.html" target="_blank">biopsychology</a> at the University of Michigan conducting research with the <a href="https://geladaresearch.org/" target="_blank">Simien Mountain Gelada Research Project</a>. My interests span behavioral endocrinology, developmental biology, and life history. I address my research questions with behavioral observations and non-invasive hormone sample collection. My dissertation focuses on early-life adversity and maternal effects in a wild primate - geladas.

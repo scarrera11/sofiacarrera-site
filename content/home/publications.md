@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -36,7 +36,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 4
+  view = 1
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -65,3 +65,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**Low rank and primiparity increase fecal glucocorticoid metabolites across gestation in wild geladas**
+<br>
+*Sofia Carrera, Jacob Feder, India Schenieder-Crease, Noah Snyder-Mackler*
+<br>
+In Review
+<br>
+<br>
+<br>
+**Developmental responses to early-life adversity: Evolutionary and mechanistic perspectives**
+<br>
+*Amy Lu, Lauren Petrullo, Sofia Carrera, Jacob Feder, India Schenieder-Crease, Noah Snyder-Mackler*
+<br>
+Evolutionary Anthropology, 2018

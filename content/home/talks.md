@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Science Communitcation & Outreach"
-subtitle = ""
+title = "Outreach"
+subtitle = "Science Communication"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -67,3 +67,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+I aim to be a role model for young children, particularly girls and under-represented minorities, in STEM. Too often a child is told that if they do not like math they should not be a scientist. Too often children never see someone like them who is a scientist. Through fun activities and public talks, I try to make science accessible for everyone. 
+<br>
+<br>
+
+In the USA, I have designed an activity for children to collect behavioral data using an ethogram. I have also presented my recent through <a href="https://annarbor.nerdnite.com/" target="_blank">Nerd Nite</a> at a local bar. I was also invited to answer a question about monkeys on NPR's <a href="https://www.npr.org/podcasts/474377890/but-why-a-podcast-for-curious-kids" target="_blank">But Why</a> podcast.
+
+While conducting my fieldwork in Ethiopia, I have been committed to sharing my research ideas and findings with local communities, universities, and tourists. Additionally, I have had the pleasure of assisting in the <a href="http://www.simiens.com/index.php/videos/details/conservation-classes-at-simien-lodge" target="_blank">Conservation Classes</a> run annually by the Simien Lodge, where children from local communities come to learn about nature, science, and conservation.
+
+
+

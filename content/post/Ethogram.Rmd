@@ -1,0 +1,25 @@
++++
+draft: true
+
+![ethogram](/img/posts/ethogram.jpeg)
+
+
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: "Sofia teaching middle schoolers how to use an ethogram"
+  focal_point: "Center"
+  preview_only: false
+
++++
+
+
+In 2018, I became a Science Communication fellow through the University of Michigan Museum of Natural History's <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html" target="_blank">Portal to the Public</a> program. In that program I designed an activity for children to collect behavioral data using an ethogram. So far, I have presented this activity at three different events in southeast Michigan. 
+
+
+
+

@@ -75,3 +75,6 @@ subtitle = ""
  css_class = ""
 +++
 
+The early-life environment has profound impacts on an individual's future health. I am trying to understand how information about the early-life environment is transferred to the offspring via their mother. 
+
+Specifically, I a) measure maternal glucocorticoid levels during pregnancy and lactation, b) observe maternal care behaviors towards her offspring, and c) examine various aspects of offspring development in wild geladas. Ultimately, I want to understand how offspring alter their developmental trajectories in response to maternal cues of environmental adversity. 

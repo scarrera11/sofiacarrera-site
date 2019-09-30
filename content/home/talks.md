@@ -49,11 +49,6 @@ I aim to be a role model for young children, particularly girls and under-repres
 <br>
 <br>
 
-I have also presented my recent through <a href="https://annarbor.nerdnite.com/" target="_blank">Nerd Nite</a> at a local bar. I was also invited to answer a question about monkeys on NPR's <a href="https://www.npr.org/podcasts/474377890/but-why-a-podcast-for-curious-kids" target="_blank">But Why</a> podcast.
-
-While conducting my fieldwork in Ethiopia, I have been committed to sharing my research ideas and findings with local communities, universities, and tourists. 
-<br>
-<br>
 
 
 

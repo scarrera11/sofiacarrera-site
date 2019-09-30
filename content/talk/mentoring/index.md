@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Conservation in Ethiopia"
+title: "Mentoring undergraduates"
 event:
 event_url:
 location:
@@ -11,17 +11,17 @@ address:
   region:
   postcode:
   country:
-summary: "In Ethiopia, I have helped teach children about geladas and conservation at the annual Conservation Classes run by the Simien Lodge"
+summary: "I strive to give undergraduates a fun and informative experience with research and working in a laboratory"
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: 2019-09-29T21:06:12-04:00
-# date_end: 2019-09-29T21:06:12-04:00
+# date: 2019-09-29T21:26:08-04:00
+# date_end: 2019-09-29T21:26:08-04:00
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: 2019-09-29T21:06:12-04:00
+# publishDate: 2019-09-29T21:26:08-04:00
 
 authors: []
 tags: []
@@ -36,7 +36,7 @@ featured: false
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 2
-  caption: "Carrera face painting children during the conservation classes at the Simien Lodge, February 2019"
+  caption: "Zeinab Mansi presenting her research at the symposium for the  Undergraduate Research Opportunities Program, April 2019"
   focal_point: "Left"
   preview_only: false
 
@@ -70,4 +70,6 @@ slides: ""
 projects: []
 ---
 
-For the past two years, I have had the pleasure of assisting in the <a href="http://www.simiens.com/index.php/videos/details/conservation-classes-at-simien-lodge" target="_blank">Conservation Classes</a> run annually by the Simien Lodge, where children from local communities come to learn about nature, science, and conservation. Through a mix of lectures, games, drawing, and face-painting we help the children learn how they can help protect their park.
+I have greatly enjoyed mentoring undergraduates in our lab at the University of Michigan. Students learn how to work in an endocrinology laboratory, starting with processing and storing samples and then advancing to running enzyme immunoassays independently. Students also learn how to use Photoshop and assist in measuring the size of infant and juvenile geladas. This work, along with the SMGRP's longterm data, is available for the students to conduct their own research projects. 
+<br>
+Previous students have examined testosterone and glucocorticoid concentrations in male geladas. Currently, a student is examining if glucocorticoid concentrations in female geladas increase when their unit is taken over by a new male.

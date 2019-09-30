@@ -49,13 +49,13 @@ I aim to be a role model for young children, particularly girls and under-repres
 <br>
 <br>
 
-I have designed an activity for children to collect behavioral data using an ethogram. I have also presented my recent through <a href="https://annarbor.nerdnite.com/" target="_blank">Nerd Nite</a> at a local bar. I was also invited to answer a question about monkeys on NPR's <a href="https://www.npr.org/podcasts/474377890/but-why-a-podcast-for-curious-kids" target="_blank">But Why</a> podcast.
+I have also presented my recent through <a href="https://annarbor.nerdnite.com/" target="_blank">Nerd Nite</a> at a local bar. I was also invited to answer a question about monkeys on NPR's <a href="https://www.npr.org/podcasts/474377890/but-why-a-podcast-for-curious-kids" target="_blank">But Why</a> podcast.
 
-While conducting my fieldwork in Ethiopia, I have been committed to sharing my research ideas and findings with local communities, universities, and tourists. Additionally, I have had the pleasure of assisting in the <a href="http://www.simiens.com/index.php/videos/details/conservation-classes-at-simien-lodge" target="_blank">Conservation Classes</a> run annually by the Simien Lodge, where children from local communities come to learn about nature, science, and conservation.
+While conducting my fieldwork in Ethiopia, I have been committed to sharing my research ideas and findings with local communities, universities, and tourists. 
 <br>
 <br>
 
-I have also enjoyed mentoring multiple undergraduates in our lab at the University of Michigan. Previous students have examined testosterone and glucocorticoid concentrations in male geladas. Currently, a student is examining if glucocorticoid concentrations in female geladas change after experiencing a takeover in their unit (when a new male becomes the leader).
+
 
 
 

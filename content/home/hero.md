@@ -55,8 +55,6 @@ weight = 10  # Order that this section will appear.
 <br>
 <br>
 <br>
-<br>
-<br>
 Simien Mountains National Park, Ethiopia
 
 

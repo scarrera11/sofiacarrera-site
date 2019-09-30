@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Teaching animal behavior"
+title: "Consv_class"
 event:
 event_url:
 location:
@@ -11,20 +11,20 @@ address:
   region:
   postcode:
   country:
-summary: "I designed an activity to teach kids about the study of animal behavior with ethograms"
+summary: "In Ethiopia, I have helped teach children about geladas and conservation at the annual Conservation Classes run by the Simien Lodge"
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: 2019-09-29T20:44:08-04:00
-# date_end: 2019-09-29T20:44:08-04:00
+# date: 2019-09-29T21:06:12-04:00
+# date_end: 2019-09-29T21:06:12-04:00
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-# publishDate: 2019-09-29T20:44:08-04:00
+# publishDate: 2019-09-29T21:06:12-04:00
 
 authors: []
-tags: ["Science Communication"]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -36,7 +36,7 @@ featured: false
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 2
-  caption: "Carrera teaching two students at a science fair how to collect animal behavioral data with an ethogram, May 2019"
+  caption: "Carrera face painting children during the conservation classes at the Simien Lodge, February 2019"
   focal_point: "Left"
   preview_only: false
 
@@ -70,6 +70,4 @@ slides: ""
 projects: []
 ---
 
-Through the University of Michigan Museum of Natural History, I became a <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html" target="_blank">Science Communication Fellow</a> by participating in worshops run through the Portal to the Public program.
-
-In these workshops, I designed an activity for children to learn how to record animal behavioral data. Using scan sampling, the children watch one individual in a short video of gelada monkeys and mark the type of behavior that the individual is involved in at pre-determined intervals. So far, I have presented this activity to school-aged children at three different events throughout southeast Michigan. The kids love finding out that they can do the same thing with their own pets, animals in their backyard, or at the zoo!
+For the past two years, I have had the pleasure of assisting in the <a href="http://www.simiens.com/index.php/videos/details/conservation-classes-at-simien-lodge" target="_blank">Conservation Classes</a> run annually by the Simien Lodge, where children from local communities come to learn about nature, science, and conservation. Through a mix of lectures, games, drawing, and face-painting we help the children learn how they can help protect their park.

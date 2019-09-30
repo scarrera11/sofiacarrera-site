@@ -9,10 +9,10 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "CV"
-  link = "static/files/CV.pdf"
-  weight = 20
+# [[main]]
+#   name = "CV"
+#   link = "static/files/CV.pdf"
+#   weight = 20
 
 [[main]]
   name = "Research"

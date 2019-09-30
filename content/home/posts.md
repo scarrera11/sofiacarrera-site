@@ -65,3 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+I'll be writing about my year with the geladas as well as about general advice and lessons from graduate school. Follow along and let me know if you have any questions or if there is anything you want to hear about! 
+<br>
+#livingwithgeladas 

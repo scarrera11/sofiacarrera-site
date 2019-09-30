@@ -76,4 +76,11 @@ In Review
 ### **Developmental responses to early-life adversity: Evolutionary and mechanistic perspectives**
 *Amy Lu, Lauren Petrullo, Sofia Carrera, Jacob Feder, India Schenieder-Crease, Noah Snyder-Mackler*
 <br>
-Evolutionary Anthropology, 2019
+Evolutionary Anthropology, 2019,
+<a href="https://doi.org/10.1002/evan.21791" target="_blank">DOI</a>
+
+<br>
+<br>
+<br>
+
+#### For more publications from the SMGRP, visit <a href="https://geladaresearch.org/publications/" target="_blank">geladaresearch.org</a>

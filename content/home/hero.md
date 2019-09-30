@@ -50,11 +50,12 @@ weight = 10  # Order that this section will appear.
  #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<br>
-<br>
-<br>
-<br>
 Simien Mountains National Park, Ethiopia
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 

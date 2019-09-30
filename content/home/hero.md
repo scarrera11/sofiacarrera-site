@@ -49,8 +49,7 @@ weight = 10  # Order that this section will appear.
 # [cta_note]
  #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
-<br>
-<br>
+
 <br>
 <br>
 <br>

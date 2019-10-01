@@ -6,13 +6,15 @@ weight = 64  # Order that this section will appear.
 
 title = "Photo Gallery"
 
-[design]
+
+# [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  # columns = "2"
+
 
 # figure[]
 # library="true" 
-# src="image.jpg" 
+# src="IMG_20170611_122728_995.jpg" 
 # title="A caption" 
 # lightbox="true"
 

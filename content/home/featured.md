@@ -10,7 +10,7 @@ weight = 28  # Order that this section will appear.
 
 [design.background]
   # Background image.
-  image = "headers/cropring.jpg"  # Name of image in `static/img/`.
+  image = "headers/cropring_crop.jpg"  # Name of image in `static/img/`.
 
 
 # title = "Featured Publications"
@@ -48,9 +48,6 @@ weight = 28  # Order that this section will appear.
  # CSS class.
  # css_class = ""
 +++
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

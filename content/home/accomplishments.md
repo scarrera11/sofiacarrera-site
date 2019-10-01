@@ -8,7 +8,7 @@ weight = 68  # Order that this section will appear.
 
 [design.background]
   # Background image.
-  image = "headers/debir.jpg"  # Name of image in `static/img/`.
+  image = "headers/debir_crop.jpg"  # Name of image in `static/img/`.
 
 
 +++

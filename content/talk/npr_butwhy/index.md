@@ -11,12 +11,12 @@ address:
   region:
   postcode:
   country:
-summary: "I worked with the But Why podcast to answer a question about monkey behavior"
+summary: "I was featured in the But Why podcast answering a question about monkey behavior"
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-# date: 2019-09-29T22:07:27-04:00
+ date: 2019-09-20T22:07:27-04:00
 # date_end: 2019-09-29T22:07:27-04:00
 # all_day: false
 

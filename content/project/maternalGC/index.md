@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Maternal GCs"
-summary: "What drives high levels of glucocorticoids in females?"
+summary: "What factors influence glucocorticoid levels in female geladas?"
 authors: []
 tags: []
 categories: []

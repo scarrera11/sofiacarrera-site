@@ -48,6 +48,17 @@ subtitle = "Science Communication"
 I aim to be a role model for young children, particularly girls and under-represented minorities, in STEM. Too often a child is told that if they do not like math they should not be a scientist. Too often children never see someone like them who is a scientist. Through fun activities and public talks, I try to make science accessible for everyone. 
 <br>
 <br>
+#SciComm training: 
+<br>
+UMMNH <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html" target="_blank">Science Communication Fellow</a>, 2019
+<br>
+<a href="https://www.learntorelate.org/" target="_blank">RELATE</a> 10-week workshop, 2019
+<br>
+<a href="https://comscicon.com/" target="_blank">ComSciCon-MI</a> 2-day workshop, 2018
+
+
+
+
 
 
 

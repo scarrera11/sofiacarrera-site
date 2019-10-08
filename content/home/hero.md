@@ -5,6 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
+font_size = "S"
+
 # title = "Sofia Carrera"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
@@ -24,7 +26,7 @@ weight = 10  # Order that this section will appear.
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "headers/viewfrom_km_crop.jpg"  # Name of image in `static/img/`.
+  image = "headers/geladacliff_crop2.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 # caption = "Image credit: Sofia Carrera"
 
@@ -50,10 +52,8 @@ weight = 10  # Order that this section will appear.
  #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Simien Mountains National Park, Ethiopia
-<br>
-<br>
-<br>
+## Simien Mountains National Park,
+## Ethiopia
 <br>
 <br>
 <br>

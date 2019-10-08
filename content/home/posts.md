@@ -5,7 +5,7 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 62  # Order that this section will appear.
 
 title = "Blog Posts"
 subtitle = ""
@@ -68,4 +68,4 @@ subtitle = ""
 
 I'll be writing about my year with the geladas as well as about general advice and lessons from graduate school. Follow along and let me know if you have any questions or if there is anything you want to hear about! 
 <br>
-#livingwithgeladas 
+#geladajourney #geladagossip

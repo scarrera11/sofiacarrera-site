@@ -3,11 +3,11 @@
 widget = "hero"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 62  # Order that this section will appear.
+weight = 63  # Order that this section will appear.
 
 [design.background]
   # Background image.
-  image = "headers/fieldteam_crop.jpg"  # Name of image in `static/img/`.
+  image = "headers/viewfrom_km_crop2.jpg"  # Name of image in `static/img/`.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
@@ -61,5 +61,5 @@ weight = 62  # Order that this section will appear.
 <br>
 <br>
 <br>
-<br>
+
 

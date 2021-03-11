@@ -26,7 +26,7 @@ font_size = "S"
   # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "headers/geladacliff_crop2.jpg"  # Name of image in `static/img/`.
+  image = "headers/viewfrom_km_crop3.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 # caption = "Image credit: Sofia Carrera"
 
@@ -52,8 +52,8 @@ font_size = "S"
  #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-## Simien Mountains National Park,
-## Ethiopia
+<br>
+<br>
 <br>
 <br>
 <br>

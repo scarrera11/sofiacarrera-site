@@ -7,7 +7,7 @@ weight = 63  # Order that this section will appear.
 
 [design.background]
   # Background image.
-  image = "headers/viewfrom_km_crop2.jpg"  # Name of image in `static/img/`.
+  image = "headers/geladacliff_crop2.jpg"  # Name of image in `static/img/`.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).

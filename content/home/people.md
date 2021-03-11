@@ -19,9 +19,12 @@ subtitle = ""
 +++
 
 ## **Teaching**
+GSI Introduction to Biopsychology, University of Michigan, 2018
+<br>
+GSI Statistical Modeling and Data Visualization in R, University of Michigan, 2017
 <br>
 <br>
-## **Science Communication** #SciComm
+## **Science Communication** 
 <a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html" target="_blank">Science Communication Fellow</a> UMMNH, 2019
 <br>
 <a href="https://www.learntorelate.org/" target="_blank">RELATE</a> 10-week workshop, 2019
@@ -30,3 +33,10 @@ subtitle = ""
 <br>
 <br>
 ## **Certificates**
+<a href="files/certificate_ABtesting.pdf" target="_blank">Data wrangling, analysis and AB testing with SQL</a>
+<br>
+Coursera | UC Davis | Dec. 2020
+<br>
+<a href="files/certificate_SQL.pdf" target="_blank">SQL for data science</a>
+<br>
+Coursera | UC Davis | Aug. 2020

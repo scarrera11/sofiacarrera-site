@@ -71,13 +71,13 @@ subtitle = ""
 #### **Low rank and primiparity increase fecal glucocorticoid metabolites across gestation in wild geladas**
 *Sofia Carrera, Sharmi Sen, Michael Heistermann, Amy Lu, Jacinta Beehner*
 <br>
-In Review
+General and Comparative Endocrinology, 2020, <a href="https://doi.org/10.1016/j.ygcen.2020.113494" target="_blank">DOI</a> <a href="files/carrera_etal_2020.pdf" target="_blank">PDF</a>
 <br>
 #### **Developmental responses to early-life adversity: Evolutionary and mechanistic perspectives**
 *Amy Lu, Lauren Petrullo, Sofia Carrera, Jacob Feder, India Schenieder-Crease, Noah Snyder-Mackler*
 <br>
 Evolutionary Anthropology, 2019,
-<a href="https://doi.org/10.1002/evan.21791" target="_blank">DOI</a>
+<a href="https://doi.org/10.1002/evan.21791" target="_blank">DOI</a> <a href="files/lu_etal_2019.pdf" target="_blank">PDF</a>
 
 <br>
 ## **Published Abstracts**

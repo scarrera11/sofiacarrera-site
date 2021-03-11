@@ -15,7 +15,7 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Michigan
-  url: "https://lsa.umich.edu/psych"
+  url: "https://lsa.umich.edu/psych/program-areas/biopsychology.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: understanding the links between the early-life environment, development, and health

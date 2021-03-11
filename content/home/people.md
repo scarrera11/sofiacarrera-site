@@ -1,12 +1,16 @@
 +++
 # People widget.
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 61  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
+
+[content]
+  # Page type to display. E.g. project.
+  page_type = "publication"
 
 # List user groups to display.
 #   Edit each user's `user_groups` to add them to one or more of these groups.
@@ -16,6 +20,10 @@ subtitle = ""
    #            "Administration",
    #            "Visitors",
     #           "Alumni"]
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"    
 +++
 
 ## **Teaching**

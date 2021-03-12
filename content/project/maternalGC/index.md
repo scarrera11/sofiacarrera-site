@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Maternal GCs"
-summary: ""
+summary: "What factors lead to high maternal GC levels?"
 authors: []
 tags: []
 categories: []

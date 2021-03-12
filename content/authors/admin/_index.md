@@ -18,13 +18,16 @@ organizations:
   url: "https://lsa.umich.edu/psych/program-areas/biopsychology.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: understanding the links between the early-life adversity, development, and health
+bio: Investigating the links between early-life adversity, development, and health
 
 interests: []
 
 
 education:
   courses:
+  - course: PhD Candidate, Biopsychology
+    institution: University of Michigan
+    # year: 2018
   - course: MS, Psychology, 2018
     institution: University of Michigan
     # year: 2018
@@ -65,4 +68,9 @@ social:
 # - Visitors
 ---
 
-I am a PhD candidate in <a href="https://lsa.umich.edu/psych/program-areas/biopsychology.html" target="_blank">biopsychology</a> at the University of Michigan conducting research with the Simien Mountains Gelada Research Project (<a href="https://geladaresearch.org/" target="_blank">SMGRP</a>). My interests span behavioral endocrinology, developmental biology, and life history. I address my research questions with behavioral observations and non-invasive hormone sample collection. My dissertation focuses on early-life adversity and maternal effects in a wild primate - geladas.
+I am fascinated by individual variations in behavior, health, and fitness, and my research aims to uncover the drivers of these variations. Currently, I focus on how the early-life environment shapes offspring development and health in a wild population of monkeys (geladas) with the Simien Mountains Gelada Research Project (<a href="https://geladaresearch.org/" target="_blank">SMGRP</a>). Through behavioral observations and non-invasive sample collection I examine how offspring adjust their developmental trajectory when faced with early-life adversity. I believe such research in non-human primates is critical for understanding and improving health disparities in human populations. 
+
+I conduct all of my research analyses using the <a href="https://www.r-project.org/about.html" target="_blank">R programming language</a>. I believe that open source software is a major step in making science and research more inclusive and accessible. I make sure that my mentoring of undergraduate students includes teaching them the basics of R to jumpstart their development as independent researchers. 
+
+In addition to being a science nerd, I enjoy spending my time outdoors, whether that be by taking a daily walk or by rock climbing. Also, until I have my own dog I will ask to pet yours when I see it out and about. 
+

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Maternal GCs"
-summary: "What factors influence glucocorticoid levels in female geladas?"
+summary: ""
 authors: []
 tags: []
 categories: []

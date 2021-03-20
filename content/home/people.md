@@ -27,9 +27,17 @@ subtitle = ""
 +++
 
 ## **Teaching**
-GSI Introduction to Biopsychology, University of Michigan, 2018
+**Behavioral Endocrinology**, Loyola Marymount University, 2020
+<br> Invited guest lecture: *Glucocorticoids as an indicator of early-life adversity*
 <br>
-GSI Statistical Modeling and Data Visualization in R, University of Michigan, 2017
+**Hormones and Behavior**, University of Michigan, 2020
+<br>Invited guest lecture: *Sex-biased investment: Sons versus daughters*
+<br>
+**Introduction to Biopsychology**, University of Michigan, 2018
+<br> Graduate Student Instructor
+<br>
+**Statistical Modeling and Data Visualization in R**, University of Michigan, 2017
+<br> Graduate Student Instructor
 <br>
 <br>
 ## **Science Communication** 

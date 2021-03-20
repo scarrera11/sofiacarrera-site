@@ -35,9 +35,9 @@
 #  weight = 60
 
 [[main]]
-  name = "Photo Gallery"
-  url = "#gallery"
-  weight = 65
+  name = "Experience"
+  url = "#people"
+  weight = 61
 
 [[main]]
   name = "Contact"

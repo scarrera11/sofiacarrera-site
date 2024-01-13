@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Jools with her 2-week-old infant, Jazzhands"
+  caption: "Jools with 2-week-old infant, Jazzhands"
   focal_point: ""
   preview_only: false
 

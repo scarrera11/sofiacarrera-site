@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Michigan
-  url: "https://lsa.umich.edu/psych/program-areas/biopsychology.html"
+- name: Northwestern University
+  url: "https://anthropology.northwestern.edu/subfields/biological/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Investigating the links between early-life adversity, development, and health
@@ -25,13 +25,13 @@ interests: []
 
 education:
   courses:
-  - course: PhD Candidate, Biopsychology
+  - course: PhD, Biopsychology
     institution: University of Michigan
     # year: 2018
-  - course: MS, Psychology, 2018
+  - course: MS, Psychology
     institution: University of Michigan
     # year: 2018
-  - course: BS, Ecology and Evolutionary Biology, 2015
+  - course: BS, Ecology and Evolutionary Biology
     institution: Yale University
     # year: 2015
 

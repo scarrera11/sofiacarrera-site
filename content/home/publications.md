@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Publications"
+title = "Select Publications"
 subtitle = ""
 
 [content]
@@ -75,37 +75,18 @@ subtitle = ""
  css_class = ""
 +++
 
-## **Peer-reviewed Publications**
-
-#### **Low rank and primiparity increase fecal glucocorticoid metabolites across gestation in wild geladas**
-*Sofia Carrera, Sharmi Sen, Michael Heistermann, Amy Lu, Jacinta Beehner*
+#### **Social correlates of androgen levels and dispersal age in juvenile male geladas**
+Sen S, Carrera SC, Heistermann M, Potter CB, Baniel A, DeLacey PM, Petrullo L, Lu A, & JC Beehner. (2022).
 <br>
-General and Comparative Endocrinology, 2020, <a href="https://doi.org/10.1016/j.ygcen.2020.113494" target="_blank">DOI</a> <a href="files/carrera_etal_2020.pdf" target="_blank">PDF</a>
+*Hormones and Behavior*, <a href="https://doi.org/10.1016/j.ygcen.2020.113494" target="_blank">DOI</a>
+<br>
+#### **Low rank and primiparity increase fecal glucocorticoid metabolites across gestation in wild geladas**
+Carrera SC, Sen S, Heistermann M, Lu A, & Beehner, JC. (2020).
+<br>
+*General and Comparative Endocrinology*, <a href="https://doi.org/10.1016/j.ygcen.2020.113494" target="_blank">DOI</a> 
 <br>
 #### **Developmental responses to early-life adversity: Evolutionary and mechanistic perspectives**
-*Amy Lu, Lauren Petrullo, Sofia Carrera, Jacob Feder, India Schenieder-Crease, Noah Snyder-Mackler*
+Lu A, Petrullo L, Carrera SC, Feder J, Schneider-Crease I, & Snyder-Mackler N. (2019).
 <br>
-Evolutionary Anthropology, 2019,
-<a href="https://doi.org/10.1002/evan.21791" target="_blank">DOI</a> <a href="files/lu_etal_2019.pdf" target="_blank">PDF</a>
+*Evolutionary Anthropology*, <a href="https://doi.org/10.1002/evan.21791" target="_blank">DOI</a> 
 
-<br>
-## **Published Abstracts**
-
-#### **In a non-seasonal primate, off-peak births require more time foraging during pregnancy**
-*Sofia Carrera, Amy Lu, Jacinta Beehner*
-<br>
-56th Annual Conference of the Animal Behavior Society, Chicago, IL, 2019.
-<br>
-#### **Variation in time to weaning in wild geladas**
-*Sofia Carrera, Amy Lu, Jacinta Beehner*
-<br>
-87th Annual Meeting of the American Association of Physical Anthropologists, Austin, TX, 2018.
-<br>
-#### **Investigating how collection time affects fecal testosterone in a cathemeral species, Aotus azarae**
-*Sofia Carrera, Margaret Corley, Richard Bribiescas, Claudia Valeggia, Eduardo Fernandez-Duque*
-<br>
-Joint Meeting of the International Primatological Society and the American Society of Primatologists, Chicago, IL, 2016.
-<br>
-<br>
-<br>
-#### For more publications from the SMGRP, visit <a href="https://geladaresearch.org/publications/" target="_blank">geladaresearch.org</a>

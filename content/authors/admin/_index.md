@@ -28,7 +28,7 @@ education:
   - course: PhD, Biopsychology
     institution: University of Michigan
     # year: 2018
-  - course: MS, Psychology
+  - course: MS, Biopsychology
     institution: University of Michigan
     # year: 2018
   - course: BS, Ecology and Evolutionary Biology
@@ -43,15 +43,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/scarrera11
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=YHJb3DwAAAAJ&view_op=list_works&gmla=AH70aAVa6UWEovKEbfek0VpPuoxtuT2WgM91YI7N4XX0lfTQ9BzaWfy_hXf9yTbPYmDAV72QjK140TDB-0f99zdOCDxZX3iga3rhg5x-o_roDHAhxMOf13AnMS7eHyHNImPAOulzVp_1phKpYZS3gmeAV29HbX1RsB7M7Ec
 - icon: github
   icon_pack: fab
   link: https://github.com/scarrera11/
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:scarrera@umich.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:sofia.carrera@northwestern.edu'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -68,9 +68,11 @@ social:
 # - Visitors
 ---
 
-I am fascinated by individual variations in behavior, health, and fitness, and my research aims to uncover the drivers of these variations. Currently, I focus on how the early-life environment shapes offspring development and health in a wild population of monkeys (geladas) with the Simien Mountains Gelada Research Project (<a href="https://geladaresearch.org/" target="_blank">SMGRP</a>). Through behavioral observations and non-invasive sample collection I examine how offspring adjust their developmental trajectory when faced with early-life adversity. I believe such research in non-human primates is critical for understanding and improving health disparities in human populations. 
+I study the physiological and behavioral mechanisms through which the early-life environment influences health and fitness later in life. As a postdoctoral fellow, I am working with data from the Cebu Longitudinal Health and Nutrition Survey (<a href="https://cebu.cpc.unc.edu/" target="_blank">CLHNS</a>) to investigate the long-term effects of early-life adversity on biological aging. 
 
-I conduct all of my research analyses using the <a href="https://www.r-project.org/about.html" target="_blank">R programming language</a>. I believe that open source software is a major step in making science and research more inclusive and accessible. I make sure that my mentoring of undergraduate students includes teaching them the basics of R to jumpstart their development as independent researchers. 
+My dissertation research focused on maternal stress and infant development in wild geladas -- monkeys living in the highlands of Ethiopia. Conducting field work with the Simien Mountains Gelada Research Project (<a href="https://geladaresearch.org/" target="_blank">SMGRP</a>), I identified the primary socio-ecological challenges to adult female reproduction. During pregnancy, first-time mothers and mothers of low social rank had higher levels of glucocorticoids, metabolic hormones that help individuals overcome energetic challenges and have potential effects on fetal development. The infants of these females breastfed for longer, which may indicate slower development. I also found that mothers of low social rank and mothers with male infants had longer interbirth intervals which over time would reduce their lifetime reproductive success.  
 
-In addition to being a science nerd, I enjoy spending my time outdoors, whether that be by taking a daily walk or by rock climbing. Also, until I have my own dog I will ask to pet yours when I see it out and about. 
+I conduct all of my research analyses using the <a href="https://www.r-project.org/about.html" target="_blank">R programming language</a>. I believe that open source software is a major step in making science and research more inclusive and accessible. I make sure to teach mentees the basics of R to jumpstart their development as independent researchers. 
+
+In addition to talking about science, I enjoy rock climbing, hiking, and playing with my dog. 
 

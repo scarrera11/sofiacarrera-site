@@ -30,8 +30,10 @@ subtitle = ""
 **Biology of Maternal Effects**, University of Michigan, 2022
 <br> Designed and taught a capstone seminar in Psychology 
 <br>
+<br>
 **Introduction to Biopsychology**, University of Michigan, 2018
 <br> Graduate Student Instructor
+<br>
 <br>
 **Statistical Modeling and Data Visualization in R**, University of Michigan, 2017
 <br> Graduate Student Instructor
@@ -42,17 +44,21 @@ subtitle = ""
 <br>
 Rackham Graduate School | UM | 2022
 <br>
+<br>
 <a href = "https://tricem.org/education-and-outreach/emsi/" target="_blank">Evolutionary Medicine Summer Institute</a>
 <br>
 TriCEM | 2021
+<br>
 <br>
 <a href = "https://sph.umich.edu/umsse/" target="_blank">Social Determinants of Population Health</a>
 <br>
 Summer Session in Epidemiology | UM School of Public Health | 2019
 <br>
+<br>
 <a href="files/certificate_ABtesting.pdf" target="_blank">Data wrangling, analysis and AB testing with SQL</a>
 <br>
 Coursera | UC Davis | Dec. 2020
+<br>
 <br>
 <a href="files/certificate_SQL.pdf" target="_blank">SQL for data science</a>
 <br>
@@ -60,11 +66,13 @@ Coursera | UC Davis | Aug. 2020
 <br>
 <br>
 ## **Science Communication** 
-<a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html" target="_blank">Science Communication Fellow</a> 
+<a href="https://lsa.umich.edu/ummnh/u-m-community/u-m-faculty/science-communication-fellows.html" target="_blank">Portal to the Public</a> 
 <br>
-UM Museum of Natural History: Portal to the Public
+UM Museum of Natural History
+<br>
 <br>
 <a href="https://comscicon.com/" target="_blank">ComSciCon-MI</a> 
+<br>
 <br>
 <a href="https://www.learntorelate.org/" target="_blank">RELATE</a> 
 

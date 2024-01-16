@@ -24,11 +24,6 @@ subtitle = ""
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1" 
-
-  OLD
-  # **Behavioral Endocrinology**, Loyola Marymount University, 2020
-# <br> Invited guest lecture: *Glucocorticoids as an indicator of early-life adversity*
-# <br>
 +++
 
 ## **Teaching**

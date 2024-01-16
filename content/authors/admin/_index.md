@@ -68,7 +68,7 @@ social:
 # - Visitors
 ---
 
-I study the physiological and behavioral mechanisms through which the early-life environment influences health and fitness later in life. As a postdoctoral fellow, I am working with data from the Cebu Longitudinal Health and Nutrition Survey (<a href="https://cebu.cpc.unc.edu/" target="_blank">CLHNS</a>) to investigate the long-term effects of early-life adversity on biological aging. 
+I study the physiological and behavioral mechanisms that connect the early-life environment with health and fitness later in life. As a postdoctoral fellow, I am working with data from the Cebu Longitudinal Health and Nutrition Survey (<a href="https://cebu.cpc.unc.edu/" target="_blank">CLHNS</a>) to investigate the long-term effects of early-life adversity on biological aging. 
 
 My dissertation research focused on maternal stress and infant development in wild geladas -- monkeys living in the highlands of Ethiopia. Conducting field work with the Simien Mountains Gelada Research Project (<a href="https://geladaresearch.org/" target="_blank">SMGRP</a>), I identified the primary socio-ecological challenges to adult female reproduction. During pregnancy, first-time mothers and mothers of low social rank had higher levels of glucocorticoids, metabolic hormones that help individuals overcome energetic challenges and have potential effects on fetal development. The infants of these females breastfed for longer, which may indicate slower development. I also found that mothers of low social rank and mothers with male infants had longer interbirth intervals which over time would reduce their lifetime reproductive success.  
 

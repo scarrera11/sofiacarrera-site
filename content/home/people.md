@@ -23,13 +23,15 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"    
+  columns = "1" 
+
+  OLD
+  # **Behavioral Endocrinology**, Loyola Marymount University, 2020
+# <br> Invited guest lecture: *Glucocorticoids as an indicator of early-life adversity*
+# <br>
 +++
 
 ## **Teaching**
-# **Behavioral Endocrinology**, Loyola Marymount University, 2020
-# <br> Invited guest lecture: *Glucocorticoids as an indicator of early-life adversity*
-# <br>
 **Biology of Maternal Effects**, University of Michigan, 2022
 <br> Designed and taught a capstone seminar in Psychology 
 <br>
@@ -68,7 +70,6 @@ Coursera | UC Davis | Aug. 2020
 UM Museum of Natural History: Portal to the Public
 <br>
 <a href="https://comscicon.com/" target="_blank">ComSciCon-MI</a> 
-# 2-day workshop, 2018
 <br>
 <a href="https://www.learntorelate.org/" target="_blank">RELATE</a> 
-# 10-week workshop, 2019
+

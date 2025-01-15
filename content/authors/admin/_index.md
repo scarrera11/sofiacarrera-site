@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral fellow
+role: NSF postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,22 @@ organizations:
   url: "https://anthropology.northwestern.edu/subfields/biological/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigating the links between early-life adversity, development, and health
+bio: Investigating the physiological links between early-life adversity, development, and health
 
 interests: []
 
 
-education:
-  courses:
-  - course: PhD, Biopsychology
-    institution: University of Michigan
-    # year: 2018
-  - course: MS, Biopsychology
-    institution: University of Michigan
-    # year: 2018
-  - course: BS, Ecology and Evolutionary Biology
-    institution: Yale University
-    # year: 2015
+# education:
+#   courses:
+#   - course: PhD, Biopsychology
+#     institution: University of Michigan
+#     # year: 2018
+#   - course: MS, Biopsychology
+#     institution: University of Michigan
+#     # year: 2018
+#   - course: BS, Ecology and Evolutionary Biology
+#     institution: Yale University
+#     # year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons

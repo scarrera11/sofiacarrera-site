@@ -43,6 +43,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/scarrera11
+- icon: bluesky
+  icon_pack: <i class="fa-brands fa-bluesky"></i>
+  link: https://bsky.app/profile/sccarrera.bsky.social
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=YHJb3DwAAAAJ&view_op=list_works&gmla=AH70aAVa6UWEovKEbfek0VpPuoxtuT2WgM91YI7N4XX0lfTQ9BzaWfy_hXf9yTbPYmDAV72QjK140TDB-0f99zdOCDxZX3iga3rhg5x-o_roDHAhxMOf13AnMS7eHyHNImPAOulzVp_1phKpYZS3gmeAV29HbX1RsB7M7Ec

@@ -54,6 +54,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   link = "plugins/font-awesome/v6/brands.css"
   lazy = true
 
+[[imports]]
+  path = "github.com/gethugothemes/hugo-modules/icons/font-awesome"
+
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/getting-started/configuration/#configure-blackfriday
 [blackfriday]
